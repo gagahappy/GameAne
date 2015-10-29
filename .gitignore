@@ -3,5 +3,6 @@
 *.ane
 bin/
 temp/
-
+资料/
+GameAne.as3proj
 build.config
